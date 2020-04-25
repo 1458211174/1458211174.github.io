@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /chufang/
+Allow: /chufang/caipu/
+Allow: /chufang/archives/
+Allow: /chufang/page/
+Allow: /chufang/categories/
+Allow: /chufang/tags/
+Disallow: /chufang/css/
+Disallow: /chufang/fancybox/
+Disallow: /chufang/fonts/
+Disallow: /chufang/images/
+Disallow: /chufang/js/
+Disallow: /chufang/lib/
+
+Sitemap: http://www.sinchao.com/chufang/sitemap.xml
+Sitemap: http://www.sinchao.com/chufang/baidusitemap.xml
+Sitemap: https://www.sinchao.com/chufang/sitemap.xml
+Sitemap: https://www.sinchao.com/chufang/baidusitemap.xml

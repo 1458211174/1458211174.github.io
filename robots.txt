@@ -1,11 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+Disallow: /lib/
 Allow: /chufang/
-Allow: /chufang/caipu/
-Allow: /chufang/archives/
-Allow: /chufang/page/
-Allow: /chufang/categories/
-Allow: /chufang/tags/
 Disallow: /chufang/css/
 Disallow: /chufang/fancybox/
 Disallow: /chufang/fonts/
